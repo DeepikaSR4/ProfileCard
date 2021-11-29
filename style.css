@@ -49,6 +49,10 @@ background: linear-gradient(90deg, rgba(29,0,255,1) 0%, rgba(133,2,255,1) 33%, r
   }
 
   @media (max-width:500px){
+    .body{
+  background: rgb(29,0,255);
+background: linear-gradient(90deg, rgba(133,2,255,1) 0%, rgba(255,136,136,1) 100%);
+}
     .img{
       width: 100px;
       padding-top: px;
